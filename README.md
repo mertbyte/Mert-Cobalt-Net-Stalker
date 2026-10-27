@@ -14,20 +14,17 @@ Minimalist, zero-interaction, real-time desktop network & ping monitor HUD built
 - Windows
 - Python 3.x
 
-## Installation
+## Download
+
+Grab the latest `.exe` from the [Releases](https://github.com/mertbyte/Mert-Cobalt-Net-Stalker/releases/latest) page and double-click it.
+
+## Run from source
+
+Requires Python 3.x.
 
 ```bash
 git clone https://github.com/mertbyte/Mert-Cobalt-Net-Stalker.git
 cd Mert-Cobalt-Net-Stalker
 pip install PySide6 psutil
+python net_stalker.py
 ```
-
-## Usage
-
-```bash
-python [your_script_name].py
-```
-
-## License
-
-[MIT or whichever you choose]
